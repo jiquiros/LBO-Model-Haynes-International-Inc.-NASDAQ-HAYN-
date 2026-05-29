@@ -111,12 +111,12 @@ IRR ~24% — here the deal works for PE. Requires both multiple expansion and ab
 
 | Project | Description |
 |---------|-------------|
-| [M&A Model — CloudCore / DataStream](../ma-financial-model) | EPS accretion/dilution model for SaaS acquisition. Fictional case calibrated to real market benchmarks. |
+| [M&A Model — CloudCore / DataStream](https://github.com/jiquiros/ma-financial-model) | EPS accretion/dilution model for SaaS acquisition. Fictional case calibrated to real market benchmarks. |
 | Valuation — Full DCF + Comps + Precedents | *Coming soon* |
 | IPO Analysis | *Coming soon* |
 
 ---
 
-*For questions or feedback, connect on [LinkedIn](https://linkedin.com/in/tu-perfil)*
+*For questions or feedback, connect on [LinkedIn](www.linkedin.com/in/jose-isaac-quiros-b348a7217)*
 
 *All analysis is for educational and portfolio purposes only. Not investment advice. All projections are the author's own estimates based on publicly available data.*
